@@ -1,7 +1,3 @@
-Aqui está um exemplo de **README.md** que você pode usar para o projeto **ProductsSample** com .NET 8:
-
----
-
 # ProductsSample Web API
 
 This is a sample project built using **Clean Architecture**, implementing **CQRS** with **Mediator** and following the **Result Pattern**. The project is developed using **.NET 8** and includes unit tests with **xUnit**. The project uses **Entity Framework Core (InMemory)** for data persistence during testing.
